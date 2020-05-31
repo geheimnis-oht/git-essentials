@@ -1,3 +1,7 @@
 this is the first push
 
 this is the second push
+I have update this file for purpose
+
+will git detected this update anyway ?
+
