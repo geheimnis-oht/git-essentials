@@ -1,2 +1,7 @@
- this is a settings file containing some configs params.
+Date: 10/06/2020
+
+This is a new content for the settings file.
+ Param1=56
+ Param2=33
+ ...
 
