@@ -4,4 +4,5 @@ This is a new content for the settings file.
  Param1=56
  Param2=33
  ...
-
+ Param55='ABCDEFG..'
+ Param56='abcdefg...'
