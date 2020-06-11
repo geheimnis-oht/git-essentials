@@ -6,3 +6,5 @@ This is a new content for the settings file.
  ...
  Param55='ABCDEFG..'
  Param56='abcdefg...'
+ Param57='xFT78¨$%'
+ Param58='--°°°°..-°°°'
